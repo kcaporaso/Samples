@@ -2,6 +2,7 @@ These are code samples of code I've written myself and represents my PHP OOP kno
 
 - README.md (this file)
   Old\
+   - Sample code for an old interview, but certainly welcome to look at my past coding as well.
    - SampleController.php (shows a sample controller that reaches out to AWS clusters)
    - SampleMemcache.php   (shows inheritence and interface implementation)
    - phpeval_test.php     (responses to an evaluation to show skills)
