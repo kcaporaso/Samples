@@ -10,6 +10,7 @@ These are code samples of code I've written myself and represents my PHP OOP kno
    - sample.functions.js  (shows some jQuery with live validation)
 
 Updated: 07/30/2025 for ShipMonk code samples.
+
 Refer to the directories: Message, MessageHandler, Services, 
 
    This will show my recent implementation using Symfony's Messenger component that I've recently implemented
